@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/ChatApp" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Dictionnary" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/FoodAppProject-master" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/GroceryApp" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/MoviesApp-master" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/NewsAppProject-master" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/NoteReminders" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/PremierLeague-master" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/jetPackDataStore" vcs="Git" />
+  </component>
+</project>
